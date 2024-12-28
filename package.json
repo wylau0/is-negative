@@ -1,5 +1,5 @@
 {
-  "name": "@wylau0/is-negative",
+  "name": "@wylau/is-negative",
   "version": "0.1.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
