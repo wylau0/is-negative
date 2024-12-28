@@ -1,0 +1,21 @@
+{
+  "name": "is-negative",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "author": "wylau0",
+  "license": "MIT",
+  "description": "Returns true if the given number is negative.",
+  "repository": "wylau0/is-negative",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
