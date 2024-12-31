@@ -7,7 +7,7 @@
 
 'use strict';
 
-const isNegative = (value: number) => {
+const isNegative = (value: number) : boolean => {
   return value < 0;
 };
 
